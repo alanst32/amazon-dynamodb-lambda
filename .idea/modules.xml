@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amazon-dynamodb-lambda.iml" filepath="$PROJECT_DIR$/.idea/modules/amazon-dynamodb-lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amazon-dynamodb-lambda_main.iml" filepath="$PROJECT_DIR$/.idea/modules/amazon-dynamodb-lambda_main.iml" group="amazon-dynamodb-lambda" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amazon-dynamodb-lambda_test.iml" filepath="$PROJECT_DIR$/.idea/modules/amazon-dynamodb-lambda_test.iml" group="amazon-dynamodb-lambda" />
+    </modules>
+  </component>
+</project>
